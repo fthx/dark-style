@@ -1,0 +1,10 @@
+{
+"extension-id": "dark-style",
+"uuid": "dark-style@fthx",
+"settings-schema": "org.gnome.shell.extensions.dark-style",
+"gettext-domain": "gnome-shell-extensions",
+"name": "Dark Style",
+"description": "Switch Shell-only default to dark style. Useful for Ubuntu.",
+"shell-version": [ "45" ],
+"url": "https://github.com/fthx/dark-style"
+}
